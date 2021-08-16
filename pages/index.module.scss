@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+.passwordInputContainer {
+  display: flex;
+  align-items: center;
+  padding: 6px 0px;
+}
+
+.row {
+  padding: 6px 0px;
+}
+
+.button {
+  width: 100%;
+}
+
+.input {
+  margin-right: 6px;
+}
